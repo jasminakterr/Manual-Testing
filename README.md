@@ -30,7 +30,7 @@ Manual testing is the process of manually executing test cases without using any
 ## Test Types
 - **Functional Testing:** Ensures application features work as intended.  
 - **Usability Testing:** Evaluates user-friendliness and accessibility.  
-- **Boundary Value Testing:** Validates input field boundaries.  
+- **UI Testing:** Validates input field boundaries.  
 - **Browser Compatibility Testing:** Confirms performance across multiple browsers.
 
 ## Test Plan
@@ -49,12 +49,7 @@ Main part of the project. After doing all the things that helps to write and exe
 - **Total Test Cases:** 104  
 - **Passed:** 94  
 - **Failed:** 10
-It only for the Sign Up and Login feature. There I maintain a sequence of testing:
-- Browser Compatibility
-- UI testing
-- Functional testing
-- Usability testing
--  
+ 
 ## Test Summary
 A test summary for manual testing is an essential part of the testing lifecycle. It provides a comprehensive overview of the testing process, outcomes, and overall product quality.
 
@@ -69,5 +64,8 @@ Bug reports is a critical activity in manual testing, as it provides a structure
 Test metrics for manual testing is essential for measuring, analyzing, and improving the testing process and the overall quality of the product. Test metrics provide quantifiable data to track the progress, efficiency, and effectiveness of testing activities.
 - **Execution Rate:** 100%  
 - **Pass Rate:** 90.4%  
-- **Fail Rate:** 9.6%  
+- **Fail Rate:** 9.6%
+
+# For better view of the project follow this drive link-
+'[https://docs.google.com/spreadsheets/d/1_1e7yKBwUYlw-f-qC5SV_zbOLXsFg_Vlc5E9Yp-cVCk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1oILtdwFWDRK_CzEmo1O8__rDGEAGbheI08SBnoJKbzU/edit?gid=0#gid=0)'
 
